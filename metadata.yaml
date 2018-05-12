@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37658'
     url: http://www.gutenberg.org/2009/agents/37658
 description: Sketches of foreign travel. -- Essays.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35412#My-Unknown-Chum
 gutenberg_issued: '2011-02-27'
 gutenberg_type: Text
 identifiers:
